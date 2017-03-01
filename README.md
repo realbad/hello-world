@@ -1,2 +1,5 @@
 # hello-world
-just a new comer
+
+Hi everyone ,I'm just a new comer.
+
+Glad to see you there.
